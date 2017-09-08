@@ -1,2 +1,4 @@
 This is the first time test git.
 second modifying of gittest.
+
+commit after gittest2.txt has been created.
