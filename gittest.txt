@@ -1,3 +1,2 @@
 This is the first time test git.
 second modifying of gittest.
-Third modifying of gittest.
